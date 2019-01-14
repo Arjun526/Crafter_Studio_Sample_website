@@ -11,27 +11,32 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2017-5-18T15:52:21.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-5-18T15:52:21.000Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-01-14T07:09:21.434Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-01-14T07:09:21.434Z</lastModifiedDate_dt>
 	<title>Editorial</title>
-	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
+	<hero_text>&lt;h2&gt;&lt;span&gt;DIATOZ (Digital India A to Z) Solutions &amp;ndash; Outsource to India within India&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;DIATOZ&lt;/span&gt;, a registered&amp;nbsp;&lt;span&gt;Ministry of Micro, Small &amp;amp; Medium Enterprises (M/o&amp;nbsp;&lt;em&gt;MSME&lt;/em&gt;)&amp;nbsp;&lt;/span&gt;under government of India, is born to disrupt IT in India with ongoing products like real-estate automation, first of its kind agricultural market place, providing high quality software and digital services.&lt;/p&gt;
+&lt;p&gt;DIATOZ is planning to expand to all states of India especially to non-IT dominant states to create great opportunities and jobs.&lt;/p&gt;
+&lt;p&gt;Founded by&amp;nbsp;&lt;span&gt;Monuranjan Borgohain&lt;/span&gt;,&amp;nbsp;&lt;span&gt;DIATOZ&lt;/span&gt;&amp;nbsp;is at head count of 10 employees within 3 months of its inceptions and growing exponentially to become a power house of talents that produce innovative products and services alongside&amp;nbsp;&lt;span&gt;Digital India&lt;/span&gt;&amp;nbsp;initiatives.&lt;/p&gt;
+&lt;p&gt;Few of our upcoming innovations in the fields of agriculture and real-estate will create revolutions in the way we use technology to solve daily problems faced by billions of common people.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;&lt;span&gt;Hi, I&amp;rsquo;m Editorial&lt;/span&gt;&lt;/h1&gt;
 &lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title>
-	<features>	<item>	<value>Quam lorem ipsum</value>
+	<features item-list="true">	<item>	<value>Two</value>
 	<key>/site/components/features/quam-lorem-ipsum.xml</key>
 	<include>/site/components/features/quam-lorem-ipsum.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/features/sapien-veroeros.xml</key>
-	<value>Sapien Veroeros</value>
+	<value>Three</value>
 	<include>/site/components/features/sapien-veroeros.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></features>
-	<header/>
-	<hero_image>/static-assets/images/strawberries.jpg</hero_image>
-	<left-rail>	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
+	<header item-list="true"/>
+	<hero_image>/static-assets/item/images/2019/01/14/LogoBlack-1.png</hero_image>
+	<left-rail item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
 	<value>Left Rail with Latest Articles</value>
 	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></left-rail>
 	<features_title>Erat lacinia</features_title>
+	<disabled>false</disabled>
 </page>
