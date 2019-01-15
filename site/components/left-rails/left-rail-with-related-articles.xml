@@ -9,9 +9,9 @@
 	<internal-name>Left Rail with Related Articles</internal-name>
 	<createdDate>2017-3-17T18:23:52.000Z</createdDate>
 	<createdDate_dt>2017-3-17T18:23:52.000Z</createdDate_dt>
-	<lastModifiedDate>2017-5-18T15:53:17.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-5-18T15:53:17.000Z</lastModifiedDate_dt>
-	<widgets>	<item>	<key>/site/components/articles-widget/related-articles-widget.xml</key>
+	<lastModifiedDate>2019-01-15T06:20:16.789Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-01-15T06:20:16.789Z</lastModifiedDate_dt>
+	<widgets item-list="true">	<item>	<key>/site/components/articles-widget/related-articles-widget.xml</key>
 	<value>Related Articles Widget</value>
 	<include>/site/components/articles-widget/related-articles-widget.xml</include>
 	<disableFlattening>false</disableFlattening>
@@ -20,4 +20,5 @@
 	<include>/site/components/contacts/contact-widget.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></widgets>
+	<disabled>false</disabled>
 </component>
