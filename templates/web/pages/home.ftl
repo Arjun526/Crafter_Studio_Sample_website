@@ -56,7 +56,7 @@
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Featured Articles</h2>
+										<h2>Featured Articles - Mallik Edit</h2>
 									</header>
 									<div class="posts">
 										<#list articles as article>
