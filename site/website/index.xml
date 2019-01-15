@@ -21,17 +21,17 @@
 &lt;p&gt;Few of our upcoming innovations in the fields of agriculture and real-estate will create revolutions in the way we use technology to solve daily problems faced by billions of common people.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;&lt;span&gt;Hi, I&amp;rsquo;m Editorial&lt;/span&gt;&lt;/h1&gt;
 &lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title>
-	<features item-list="true">	<item>	<value>Two</value>
-	<key>/site/components/features/quam-lorem-ipsum.xml</key>
-	<include>/site/components/features/quam-lorem-ipsum.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/components/features/sapien-veroeros.xml</key>
+	<features item-list="true">	<item>	<key>/site/components/features/sapien-veroeros.xml</key>
 	<value>Three</value>
 	<include>/site/components/features/sapien-veroeros.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/features/sed-magna-finibus.xml</key>
 	<value>Four</value>
 	<include>/site/components/features/sed-magna-finibus.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>Two</value>
+	<key>/site/components/features/quam-lorem-ipsum.xml</key>
+	<include>/site/components/features/quam-lorem-ipsum.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/features/portitor-ullamcorper.xml</key>
 	<value>One</value>
