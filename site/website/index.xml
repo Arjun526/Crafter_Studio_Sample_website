@@ -25,6 +25,10 @@
 	<value>One</value>
 	<include>/site/components/features/portitor-ullamcorper.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>Two</value>
+	<key>/site/components/features/quam-lorem-ipsum.xml</key>
+	<include>/site/components/features/quam-lorem-ipsum.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/features/sapien-veroeros.xml</key>
 	<value>Three</value>
 	<include>/site/components/features/sapien-veroeros.xml</include>
@@ -32,10 +36,6 @@
 	</item>	<item>	<key>/site/components/features/sed-magna-finibus.xml</key>
 	<value>Four</value>
 	<include>/site/components/features/sed-magna-finibus.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<value>Two</value>
-	<key>/site/components/features/quam-lorem-ipsum.xml</key>
-	<include>/site/components/features/quam-lorem-ipsum.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></features>
 	<header item-list="true"/>
